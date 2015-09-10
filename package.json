@@ -17,13 +17,13 @@
   },
   "homepage": "https://github.com/fritzy/level-dulcimer",
   "dependencies": {
-    "level-bucket": "1.1.2",
-    "level-2i": "1.2.3",
-    "level-increment": "0.2.2",
-    "levelout": "1.0.0",
-    "level-bucketarray": "^1.0.0",
-    "level-foreignkeys": "2.1.2",
-    "level-continuation": "0.0.2"
+    "level-bucket": "*",
+    "level-2i": "*",
+    "level-increment": "*",
+    "levelout": "*",
+    "level-bucketarray": "*",
+    "level-foreignkeys": "*",
+    "level-continuation": "*"
   },
   "devDependencies": {
     "nodeunit": "^0.9.0",
