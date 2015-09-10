@@ -20,7 +20,7 @@
     "level-bucket": "*",
     "level-2i": "*",
     "level-increment": "*",
-    "levelout": "*",
+    "levelout": "conoro/node-levelout",
     "level-bucketarray": "*",
     "level-foreignkeys": "*",
     "level-continuation": "*"
